@@ -4,7 +4,7 @@
     $nome = "Elias Reis"; //string
     $estuda = null; // booleano
     $salario = 0.00;
-    echo 'Olá me chamo ' . $nome . ' e tenho ' . $idade . ' anos';
+    echo 'Olá me chamo teste local ' . $nome . ' e tenho ' . $idade . ' anos';
 
     echo 'Estudo: ' . $estuda . ' Salário ' . $salario;
 ?>
