@@ -1,0 +1,105 @@
+body{
+  background: #cccccc
+}
+
+p{
+  text-align:center;
+}
+
+em{
+  color: #ff0000
+}
+#banner{
+   width:100%
+}
+ 
+h1{
+  text-align:center;
+}
+
+.itens{
+  font-style: italic;
+}
+
+.beneficios{
+  background:#ffffff;
+  padding: 20px;
+}
+
+h2{
+  text-align:center;
+}
+
+ul{
+  display:inline-block;
+  width:20%;
+  margin-right: 15%;
+  vertical-align:top;
+}
+
+.imagembeneficios{
+  width:50%;
+}
+
+header{
+  text-align:center;
+  background-color:#ffffff;
+  padding: 20px;
+}
+
+header ul li{
+  display: inline-block;
+  text-decoration: none;
+  padding: 10px;
+  font-size: 20px;
+}
+header ul{
+  width: 100%;
+}
+header ul li a{
+  color: #000000;
+  text-decoration: none;
+}
+.produtos{
+  width:940px;
+  margin: 0 auto;
+}
+.produtos li{
+  display: inline-block;
+  text-align: center;
+  width: 30%
+}
+.produtos h2{
+  font-size: 30px;
+  font-weight: bold;
+}
+.produtos li img{
+  width: 100%;
+  height: 200px;
+}
+form label{
+  display: block;
+}
+form {
+  text-align: center;
+}
+form label{
+  width: 400px;
+  margin: 10px auto;
+  font-size: 20px;
+}
+form input{
+  width:100%;
+  padding: 10px 0;
+}
+.whatsapp a {
+  width: 150px;
+  position: fixed;
+  bottom: 0;
+  right: 150px;
+  padding: 20px;
+  background: #008000;
+  color: #ffffff;
+  text-decoration: none;
+  text-align: center;
+}
